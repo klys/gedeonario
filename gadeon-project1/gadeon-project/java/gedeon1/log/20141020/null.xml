@@ -1,0 +1,1 @@
+<LOG TP='BD'><![CDATA[20/10/2014 -> SELECT * FROM tbl_crucifijo  WHERE id_crucifijo='1' ; Mon Oct 20 10:55:37 VET 2014]]></LOG><LOG TP='BD'><![CDATA[20/10/2014 -> SELECT * FROM tbl_crucifijo  WHERE id_crucifijo='1' ; Mon Oct 20 10:57:04 VET 2014]]></LOG><LOG TP='BD'><![CDATA[20/10/2014 -> SELECT * FROM tbl_crucifijo  WHERE id_crucifijo=1 ; Mon Oct 20 10:59:10 VET 2014]]></LOG>

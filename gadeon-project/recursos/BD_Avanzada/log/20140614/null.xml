@@ -1,0 +1,1 @@
+<LOG TP='BD'><![CDATA[14/6/2014 -> SELECT id_estado,nb_estado FROM tblsit_estado order by nb_estado; Sat Jun 14 09:33:09 VET 2014]]></LOG>

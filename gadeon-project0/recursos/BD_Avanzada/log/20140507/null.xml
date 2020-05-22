@@ -1,0 +1,1 @@
+<LOG TP='BD'><![CDATA[7/5/2014 -> SELECT id_usuario FROM usuario WHERE tx_login='hola'; Wed May 07 12:22:57 VET 2014]]></LOG>

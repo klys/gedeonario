@@ -1,0 +1,1 @@
+java -jar gedeon1.jar

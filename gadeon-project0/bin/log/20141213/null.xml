@@ -1,0 +1,1 @@
+<LOG TP='BD'><![CDATA[13/12/2014 -> SELECT intentos FROM tbl_conf_clave WHERE activo='1'; Sat Dec 13 18:04:46 VET 2014]]></LOG><LOG TP='BD'><![CDATA[13/12/2014 -> SELECT intentos FROM tbl_conf_clave WHERE activo='1'; Sat Dec 13 18:15:24 VET 2014]]></LOG>
